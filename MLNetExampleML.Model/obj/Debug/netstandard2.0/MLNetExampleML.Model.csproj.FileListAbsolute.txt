@@ -1,0 +1,9 @@
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\bin\Debug\netstandard2.0\MLNetExampleML.Model.deps.json
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\bin\Debug\netstandard2.0\MLNetExampleML.Model.dll
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\bin\Debug\netstandard2.0\MLNetExampleML.Model.pdb
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\obj\Debug\netstandard2.0\MLNetExampleML.Model.csprojAssemblyReference.cache
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\obj\Debug\netstandard2.0\MLNetExampleML.Model.AssemblyInfoInputs.cache
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\obj\Debug\netstandard2.0\MLNetExampleML.Model.AssemblyInfo.cs
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\obj\Debug\netstandard2.0\MLNetExampleML.Model.dll
+C:\Users\michaelbanner\source\repos\MLNet Example\MLNet Example\MLNetExample\MLNetExampleML.Model\obj\Debug\netstandard2.0\MLNetExampleML.Model.pdb
